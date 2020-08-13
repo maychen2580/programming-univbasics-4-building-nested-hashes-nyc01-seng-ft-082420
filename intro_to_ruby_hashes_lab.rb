@@ -35,7 +35,9 @@ def monopoly_with_third_tier
         three_piece_owned: 100,
         fout_piece_owned: 200
       },
-      name: {}
+      name: {
+        
+      }
     
     }
     
