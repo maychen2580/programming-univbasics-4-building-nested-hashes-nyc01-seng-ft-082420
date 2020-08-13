@@ -36,6 +36,7 @@ def monopoly_with_third_tier
         fout_piece_owned: 200
       },
       name: {
+        reading_railroad: {}
         
       }
     
